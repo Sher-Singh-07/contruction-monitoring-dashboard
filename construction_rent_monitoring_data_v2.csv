@@ -1,0 +1,101 @@
+Equipment_ID,Equipment_Name,Category,Status,Current_Site,Site_Lat,Site_Long,Initial_Cost (₹),Maintenance_Cost/day (₹),Rent_Cost/day (₹),Start_Date,End_Date,Days_Active,Profit (₹),Loss (₹),Maintenance_Status
+EQ001,Excavator,Technical Equipment,On Rent,Saraidhela Bridge,23.795,86.425,2500000,365,8000,2025-09-17,2025-10-07,20,160000,7300,Available
+EQ002,Bulldozer,Transportation,On Rent,Kusunda Overpass,23.74,86.42,3500000,263,8000,2025-08-14,2025-10-07,54,432000,14202,Available
+EQ003,Bulldozer,Transportation,Inventory,-,-,-,3500000,1585,8000,2025-09-23,-,4,0,6340,Available
+EQ004,Safety Jacket,Safety,On Rent,Barwadda Expansion,23.835,86.455,6000,448,120,2025-09-14,2025-10-07,23,2760,10304,Available
+EQ005,Harness Set,Safety,On Rent,Katras Tunnel,23.81,86.44,15000,861,300,2025-08-07,2025-10-07,61,18300,52521,Available
+EQ006,Loader,Transportation,On Rent,Saraidhela Bridge,23.795,86.425,1500000,1788,5000,2025-08-03,2025-10-07,65,325000,116220,Available
+EQ007,Welding Generator,Technical Equipment,On Rent,Kusunda Overpass,23.74,86.42,400000,641,1200,2025-09-23,2025-10-07,14,16800,8974,Available
+EQ008,Compressor,Technical Equipment,In Maintenance,-,-,-,600000,479,1800,2025-09-15,2025-10-07,22,0,10538,Under Repair
+EQ009,Dump Truck,Transportation,Inventory,-,-,-,4500000,277,9500,2025-08-30,-,14,0,3878,Available
+EQ010,Loader,Transportation,On Rent,Saraidhela Bridge,23.795,86.425,1500000,771,5000,2025-08-14,2025-10-07,54,270000,41634,Available
+EQ011,Concrete Mixer,Technical Equipment,Inventory,-,-,-,150000,255,1500,2025-08-22,-,9,0,2295,Available
+EQ012,Hydraulic Breaker,Technical Equipment,On Rent,Kusunda Overpass,23.74,86.42,1200000,1903,5000,2025-09-10,2025-10-07,27,135000,51381,Available
+EQ013,Compressor,Technical Equipment,On Rent,Saraidhela Bridge,23.795,86.425,600000,1804,1800,2025-08-04,2025-10-07,64,115200,115456,Available
+EQ014,Dump Truck,Transportation,Inventory,-,-,-,4500000,230,9500,2025-08-28,-,15,0,3450,Available
+EQ015,Concrete Mixer,Technical Equipment,On Rent,Kusunda Overpass,23.74,86.42,150000,1930,1500,2025-09-11,2025-10-07,26,39000,50180,Available
+EQ016,Safety Net,Safety,On Rent,Katras Tunnel,23.81,86.44,20000,1261,250,2025-08-17,2025-10-07,51,12750,64311,Available
+EQ017,Compressor,Technical Equipment,On Rent,Govindpur Road Project,23.78,86.5,600000,537,1800,2025-08-09,2025-10-07,59,106200,31683,Available
+EQ018,Welding Generator,Technical Equipment,On Rent,Barwadda Expansion,23.835,86.455,400000,442,1200,2025-09-10,2025-10-07,27,32400,11934,Available
+EQ019,Loader,Transportation,On Rent,Kusunda Overpass,23.74,86.42,1500000,1032,5000,2025-09-03,2025-10-07,34,170000,35088,Available
+EQ020,Safety Jacket,Safety,In Maintenance,-,-,-,6000,1422,120,2025-08-08,2025-10-07,60,0,85320,Under Repair
+EQ021,Compressor,Technical Equipment,Inventory,-,-,-,600000,838,1800,2025-08-15,-,5,0,4190,Available
+EQ022,Safety Net,Safety,On Rent,Saraidhela Bridge,23.795,86.425,20000,1816,250,2025-08-12,2025-10-07,56,14000,101696,Available
+EQ023,Excavator,Technical Equipment,In Maintenance,-,-,-,2500000,1351,8000,2025-09-02,2025-10-07,35,0,47285,Under Repair
+EQ024,Hydraulic Breaker,Technical Equipment,On Rent,Katras Tunnel,23.81,86.44,1200000,1707,5000,2025-09-03,2025-10-07,34,170000,58038,Available
+EQ025,Bulldozer,Transportation,On Rent,Barwadda Expansion,23.835,86.455,3500000,777,8000,2025-09-26,2025-10-07,11,88000,8547,Available
+EQ026,Safety Net,Safety,On Rent,Govindpur Road Project,23.78,86.5,20000,299,250,2025-09-16,2025-10-07,21,5250,6279,Available
+EQ027,Safety Helmet Set,Safety,In Maintenance,-,-,-,8000,359,150,2025-08-09,2025-10-07,59,0,21181,Under Repair
+EQ028,Welding Generator,Technical Equipment,In Maintenance,-,-,-,400000,1100,1200,2025-09-25,2025-10-07,12,0,13200,Under Repair
+EQ029,Welding Generator,Technical Equipment,In Maintenance,-,-,-,400000,1787,1200,2025-09-16,2025-10-07,21,0,37527,Under Repair
+EQ030,Hydraulic Breaker,Technical Equipment,Inventory,-,-,-,1200000,1445,5000,2025-09-17,-,8,0,11560,Available
+EQ031,Welding Generator,Technical Equipment,On Rent,Katras Tunnel,23.81,86.44,400000,130,1200,2025-09-07,2025-10-07,30,36000,3900,Available
+EQ032,Hydraulic Breaker,Technical Equipment,On Rent,Barwadda Expansion,23.835,86.455,1200000,1272,5000,2025-08-04,2025-10-07,64,320000,81408,Available
+EQ033,Dump Truck,Transportation,In Maintenance,-,-,-,4500000,262,9500,2025-09-02,2025-10-07,35,0,9170,Under Repair
+EQ034,Road Roller,Transportation,Inventory,-,-,-,3000000,348,7000,2025-09-30,-,4,0,1392,Available
+EQ035,Gloves Pack,Safety,On Rent,Barwadda Expansion,23.835,86.455,5000,851,100,2025-08-28,2025-10-07,40,4000,34040,Available
+EQ036,Gloves Pack,Safety,In Maintenance,-,-,-,5000,1309,100,2025-10-02,2025-10-07,5,0,6545,Under Repair
+EQ037,Excavator,Technical Equipment,On Rent,Saraidhela Bridge,23.795,86.425,2500000,342,8000,2025-08-16,2025-10-07,52,416000,17784,Available
+EQ038,Crane,Transportation,On Rent,Katras Tunnel,23.81,86.44,2000000,659,6500,2025-08-30,2025-10-07,38,247000,25042,Available
+EQ039,Dump Truck,Transportation,On Rent,Govindpur Road Project,23.78,86.5,4500000,1319,9500,2025-09-04,2025-10-07,33,313500,43527,Available
+EQ040,Dump Truck,Transportation,In Maintenance,-,-,-,4500000,470,9500,2025-08-27,2025-10-07,41,0,19270,Under Repair
+EQ041,Gloves Pack,Safety,On Rent,Kusunda Overpass,23.74,86.42,5000,472,100,2025-08-25,2025-10-07,43,4300,20296,Available
+EQ042,Loader,Transportation,On Rent,Kusunda Overpass,23.74,86.42,1500000,1460,5000,2025-09-16,2025-10-07,21,105000,30660,Available
+EQ043,Welding Generator,Technical Equipment,On Rent,Saraidhela Bridge,23.795,86.425,400000,206,1200,2025-09-07,2025-10-07,30,36000,6180,Available
+EQ044,Compressor,Technical Equipment,On Rent,Saraidhela Bridge,23.795,86.425,600000,1181,1800,2025-08-31,2025-10-07,37,66600,43697,Available
+EQ045,Compressor,Technical Equipment,On Rent,Govindpur Road Project,23.78,86.5,600000,439,1800,2025-08-05,2025-10-07,63,113400,27657,Available
+EQ046,Excavator,Technical Equipment,Inventory,-,-,-,2500000,326,8000,2025-09-01,-,10,0,3260,Available
+EQ047,Excavator,Technical Equipment,Inventory,-,-,-,2500000,1274,8000,2025-10-06,-,6,0,7644,Available
+EQ048,Safety Net,Safety,Inventory,-,-,-,20000,619,250,2025-09-20,-,3,0,1857,Available
+EQ049,Concrete Mixer,Technical Equipment,On Rent,Barwadda Expansion,23.835,86.455,150000,1237,1500,2025-09-06,2025-10-07,31,46500,38347,Available
+EQ050,Dump Truck,Transportation,On Rent,Govindpur Road Project,23.78,86.5,4500000,775,9500,2025-09-26,2025-10-07,11,104500,8525,Available
+EQ051,Crane,Transportation,On Rent,Katras Tunnel,23.81,86.44,2000000,1197,6500,2025-09-15,2025-10-07,22,143000,26334,Available
+EQ052,Safety Jacket,Safety,In Maintenance,-,-,-,6000,1255,120,2025-08-01,2025-10-07,67,0,84085,Under Repair
+EQ053,Compressor,Technical Equipment,On Rent,Barwadda Expansion,23.835,86.455,600000,407,1800,2025-08-17,2025-10-07,51,91800,20757,Available
+EQ054,Dump Truck,Transportation,Inventory,-,-,-,4500000,630,9500,2025-08-27,-,12,0,7560,Available
+EQ055,Safety Net,Safety,Inventory,-,-,-,20000,1215,250,2025-10-02,-,5,0,6075,Available
+EQ056,Dump Truck,Transportation,Inventory,-,-,-,4500000,202,9500,2025-08-01,-,6,0,1212,Available
+EQ057,Road Roller,Transportation,On Rent,Kusunda Overpass,23.74,86.42,3000000,985,7000,2025-09-05,2025-10-07,32,224000,31520,Available
+EQ058,Dump Truck,Transportation,On Rent,Katras Tunnel,23.81,86.44,4500000,1825,9500,2025-08-24,2025-10-07,44,418000,80300,Available
+EQ059,Compressor,Technical Equipment,On Rent,Katras Tunnel,23.81,86.44,600000,768,1800,2025-09-27,2025-10-07,10,18000,7680,Available
+EQ060,Road Roller,Transportation,On Rent,Katras Tunnel,23.81,86.44,3000000,851,7000,2025-09-19,2025-10-07,18,126000,15318,Available
+EQ061,Welding Generator,Technical Equipment,In Maintenance,-,-,-,400000,2094,1200,2025-09-29,2025-10-07,8,0,16752,Under Repair
+EQ062,Crane,Transportation,In Maintenance,-,-,-,2000000,2023,6500,2025-08-27,2025-10-07,41,0,82943,Under Repair
+EQ063,Crane,Transportation,Inventory,-,-,-,2000000,911,6500,2025-09-01,-,5,0,4555,Available
+EQ064,Dump Truck,Transportation,On Rent,Barwadda Expansion,23.835,86.455,4500000,594,9500,2025-08-13,2025-10-07,55,522500,32670,Available
+EQ065,Harness Set,Safety,On Rent,Katras Tunnel,23.81,86.44,15000,1370,300,2025-08-13,2025-10-07,55,16500,75350,Available
+EQ066,Harness Set,Safety,On Rent,Barwadda Expansion,23.835,86.455,15000,733,300,2025-08-23,2025-10-07,45,13500,32985,Available
+EQ067,Compressor,Technical Equipment,On Rent,Govindpur Road Project,23.78,86.5,600000,150,1800,2025-08-08,2025-10-07,60,108000,9000,Available
+EQ068,Safety Net,Safety,On Rent,Saraidhela Bridge,23.795,86.425,20000,1199,250,2025-08-28,2025-10-07,40,10000,47960,Available
+EQ069,Harness Set,Safety,On Rent,Govindpur Road Project,23.78,86.5,15000,1792,300,2025-09-06,2025-10-07,31,9300,55552,Available
+EQ070,Road Roller,Transportation,On Rent,Kusunda Overpass,23.74,86.42,3000000,1796,7000,2025-09-21,2025-10-07,16,112000,28736,Available
+EQ071,Hydraulic Breaker,Technical Equipment,On Rent,Barwadda Expansion,23.835,86.455,1200000,2163,5000,2025-08-22,2025-10-07,46,230000,99498,Available
+EQ072,Concrete Mixer,Technical Equipment,Inventory,-,-,-,150000,1797,1500,2025-09-08,-,9,0,16173,Available
+EQ073,Gloves Pack,Safety,On Rent,Saraidhela Bridge,23.795,86.425,5000,497,100,2025-08-27,2025-10-07,41,4100,20377,Available
+EQ074,Welding Generator,Technical Equipment,Inventory,-,-,-,400000,1469,1200,2025-09-08,-,7,0,10283,Available
+EQ075,Excavator,Technical Equipment,On Rent,Katras Tunnel,23.81,86.44,2500000,1268,8000,2025-09-08,2025-10-07,29,232000,36772,Available
+EQ076,Concrete Mixer,Technical Equipment,On Rent,Kusunda Overpass,23.74,86.42,150000,1186,1500,2025-08-31,2025-10-07,37,55500,43882,Available
+EQ077,Hydraulic Breaker,Technical Equipment,Inventory,-,-,-,1200000,1395,5000,2025-09-12,-,2,0,2790,Available
+EQ078,Road Roller,Transportation,On Rent,Katras Tunnel,23.81,86.44,3000000,180,7000,2025-08-16,2025-10-07,52,364000,9360,Available
+EQ079,Safety Jacket,Safety,Inventory,-,-,-,6000,867,120,2025-08-25,-,12,0,10404,Available
+EQ080,Welding Generator,Technical Equipment,On Rent,Katras Tunnel,23.81,86.44,400000,1401,1200,2025-08-01,2025-10-07,67,80400,93867,Available
+EQ081,Loader,Transportation,On Rent,Govindpur Road Project,23.78,86.5,1500000,1232,5000,2025-08-16,2025-10-07,52,260000,64064,Available
+EQ082,Loader,Transportation,On Rent,Kusunda Overpass,23.74,86.42,1500000,1285,5000,2025-09-08,2025-10-07,29,145000,37265,Available
+EQ083,Gloves Pack,Safety,Inventory,-,-,-,5000,1182,100,2025-09-24,-,14,0,16548,Available
+EQ084,Welding Generator,Technical Equipment,In Maintenance,-,-,-,400000,1124,1200,2025-08-29,2025-10-07,39,0,43836,Under Repair
+EQ085,Safety Net,Safety,Inventory,-,-,-,20000,1616,250,2025-10-06,-,8,0,12928,Available
+EQ086,Hydraulic Breaker,Technical Equipment,On Rent,Barwadda Expansion,23.835,86.455,1200000,604,5000,2025-08-18,2025-10-07,50,250000,30200,Available
+EQ087,Harness Set,Safety,In Maintenance,-,-,-,15000,373,300,2025-08-15,2025-10-07,53,0,19769,Under Repair
+EQ088,Safety Net,Safety,Inventory,-,-,-,20000,852,250,2025-09-12,-,9,0,7668,Available
+EQ089,Gloves Pack,Safety,On Rent,Kusunda Overpass,23.74,86.42,5000,1638,100,2025-09-07,2025-10-07,30,3000,49140,Available
+EQ090,Excavator,Technical Equipment,In Maintenance,-,-,-,2500000,925,8000,2025-08-31,2025-10-07,37,0,34225,Under Repair
+EQ091,Road Roller,Transportation,On Rent,Kusunda Overpass,23.74,86.42,3000000,1939,7000,2025-08-27,2025-10-07,41,287000,79499,Available
+EQ092,Compressor,Technical Equipment,Inventory,-,-,-,600000,1186,1800,2025-08-29,-,5,0,5930,Available
+EQ093,Gloves Pack,Safety,On Rent,Saraidhela Bridge,23.795,86.425,5000,1792,100,2025-08-26,2025-10-07,42,4200,75264,Available
+EQ094,Hydraulic Breaker,Technical Equipment,Inventory,-,-,-,1200000,1489,5000,2025-08-04,-,15,0,22335,Available
+EQ095,Safety Jacket,Safety,On Rent,Barwadda Expansion,23.835,86.455,6000,895,120,2025-08-09,2025-10-07,59,7080,52805,Available
+EQ096,Safety Net,Safety,On Rent,Kusunda Overpass,23.74,86.42,20000,995,250,2025-08-21,2025-10-07,47,11750,46765,Available
+EQ097,Gloves Pack,Safety,On Rent,Kusunda Overpass,23.74,86.42,5000,253,100,2025-08-31,2025-10-07,37,3700,9361,Available
+EQ098,Bulldozer,Transportation,On Rent,Saraidhela Bridge,23.795,86.425,3500000,226,8000,2025-09-19,2025-10-07,18,144000,4068,Available
+EQ099,Excavator,Technical Equipment,Inventory,-,-,-,2500000,553,8000,2025-08-03,-,10,0,5530,Available
+EQ100,Crane,Transportation,On Rent,Barwadda Expansion,23.835,86.455,2000000,552,6500,2025-08-30,2025-10-07,38,247000,20976,Available
